@@ -1,0 +1,147 @@
+body {
+    background-color: #D4ECDD;
+}
+.welcome{
+    color: #112031;
+    text-align: center;
+    text-shadow: 2px 2px 4px #345B63;
+    font-weight: bolder;
+    font-style: italic;
+    height: 145px;
+    width: 521px;
+    background-color: whitesmoke;
+    border: 8px solid #152D35;
+    border-radius: 19px;
+    align-items: center;
+    padding: 1px;
+    margin: 12px -81px 20px 429px;
+    box-shadow: 4px 5px #345B63;
+    position: sticky;
+}
+.parent1{
+    border: 8px solid #345B63;
+}
+.address{
+    color: #112031;
+    line-height: 42px;
+    text-align: center;
+    text-shadow: 2px 2px 4px #345B63;
+    font-weight: bolder;
+    height: 224px;
+    width: 227px;
+    background-color: whitesmoke;
+    border: 8px solid #152D35;
+    border-radius: 19px;
+    padding: 1px;
+    margin: 25px 20px 20px 20px;
+    box-shadow: 4px 5px #345B63;
+}
+.picture{
+    align-items: center;
+    height: 171px;
+    width: 215px;
+    background-color: whitesmoke;
+    border: 8px solid #152D35;
+    border-radius: 19px;
+    padding: 29px;
+    margin: -264px 76px 194px 1191px;
+    box-shadow: 4px 5px #345b63;
+}
+.offers1{
+    color: #D4ECDD;
+}
+.offers2{
+    position: absolute;
+    right: 20px;
+    top: 4px;
+    color: #D4ECDD;
+}
+.a{
+    color: #112031;
+    background-color: whitesmoke;
+    text-shadow: 2px 2px 4px #345B63;
+    box-shadow: 4px 5px #345B63 ;
+    height: 244px;
+    width: 225px;
+    border-radius: 21px;
+    border: 8px solid #152D35;
+    margin: -89px 20px 20px 20px;
+}
+.form{
+    text-align: center;
+    font-weight: bold;
+    color: #112031;
+    background-color: whitesmoke;
+    text-shadow: 2px 2px 4px #345B63;
+    box-shadow: 4px 5px #345B63;
+    height: 244px;
+    width: 268px;
+    border-radius: 21px;
+    border: 8px solid #152D35;
+    margin: -276px 20px 72px 1173px;
+    padding-right: 22px;
+}
+.button{
+    border-radius: 20px;
+}
+.parent{
+    margin-left: 407px;
+    display: inline-block;
+}
+.b{
+    text-align: center;
+    background-color: #345B63;
+    height: 714px;
+    top: 34px;
+    width: 796px;
+    position: relative;
+    border: 8px solid  #152D35;
+}
+.fruits{
+    text-align: center;
+    font-weight: bold;
+    color: #112031;
+    line-height: 39px;
+    background-color: lightgoldenrodyellow;
+    font-style: italic;
+    height: 290px;
+    width: 379px;
+    position: absolute;
+    margin:-622px 20px 26px 20px;
+}
+.vegetables{
+    text-align: center;
+    font-weight: bold;
+    color: #112031;
+    line-height: 29px;
+    background-color: lightgoldenrodyellow;
+    font-style: italic;
+    height: 291px;
+    width: 378px;
+    position: absolute;
+    margin:-621px 20px 72px 403px;
+}
+.otheritems{
+    text-align: center;
+    font-weight: bold;
+    color: #112031;
+    line-height: 29px;
+    background-color: lightgoldenrodyellow;
+    font-style: italic;
+    height: 291px;
+    width: 761px;
+    position: absolute;
+    margin: -320px 20px 20px 20px;
+}
+.offers{
+    left: 467px;
+    border: 8px solid #152D35;
+    background-color: #345B63;
+    font-style: italic;
+    width: 627px;
+    border-radius: 19px;
+    position: sticky;
+    padding-left: 30px;
+    bottom: 120px;
+    box-shadow: 4px 5px #345B63;
+ }
